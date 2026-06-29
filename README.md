@@ -28,9 +28,11 @@ My journey combines:
 * 💻 Competitive Programming (350+ DSA problems across LeetCode, Codeforces & CodeChef)
 * 🏆 Winner — Allianz Tech Championship 2026 (1st among 8500+ participants)
 * 🚀 Smart India Hackathon 2025 Grand Finalist
-* 🥇 DRDO Track Winner — VIT CodeVerse 2025
-* ☁️ AI & Cloud Computing Internship Experience
-* 🤖 AI/ML, Distributed Systems & Backend Engineering
+* 🥇 4x Hackathon Winner
+* 📊 Data Science & Analytics (Summer Analytics Trainee at IIT Guwahati × HackerEarth)
+* 🚀 Actively contributing to open-source ecosystems, improving software quality, documentation, and developer experience.
+* ⁠🤖 AI/ML & Distributed Systems Engineering
+
 
 My goal is simple:
 
