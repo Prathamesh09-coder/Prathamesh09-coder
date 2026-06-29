@@ -78,8 +78,8 @@ My goal is simple:
 
 *IIT Guwahati × HackerEarth*
 
-*⁠  ⁠Building end-to-end Machine Learning and Analytics pipelines
-*⁠  ⁠Applying feature engineering and model optimization techniques
+*  ⁠Building end-to-end Machine Learning and Analytics pipelines
+*  ⁠Applying feature engineering and model optimization techniques
 *  ⁠Developing dashboards, visualization systems, and data-driven solutions
 *  ⁠Working alongside a national cohort of analytics enthusiasts
 
