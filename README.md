@@ -6,7 +6,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-350+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
 [![DSA](https://img.shields.io/badge/DSA-350%2B%20Problems-blue?style=for-the-badge)](#)
-[![Allianz](https://img.shields.io/badge/Allianz%20Tech%20Championship-Winner-gold?style=for-the-badge)](#)
+[![Allianz](https://img.shields.io/badge/Allianz%20Tech%20Championship%202025-Winner-gold?style=for-the-badge)](#)
 [![SIH](https://img.shields.io/badge/SIH%202025-Grand%20Finalist-0A66C2?style=for-the-badge)](#)
 [![HACKATHON](https://img.shields.io/badge/HACKATHON%20WINNER-4X-success?style=for-the-badge)](#)
 
