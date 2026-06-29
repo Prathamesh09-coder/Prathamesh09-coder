@@ -160,7 +160,7 @@ D --> E[Create Impact]
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
 ## 📊 GitHub Analytics
 
