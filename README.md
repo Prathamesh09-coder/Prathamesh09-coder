@@ -169,9 +169,6 @@ D --> E[Create Impact]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh09-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh09-coder&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh09-coder&theme=tokyonight&hide_border=true"/>
