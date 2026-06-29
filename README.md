@@ -7,7 +7,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-350+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
 [![DSA](https://img.shields.io/badge/DSA-350%2B%20Problems-blue?style=for-the-badge)](#)
 [![SIH](https://img.shields.io/badge/SIH%202025-Grand%20Finalist-0A66C2?style=for-the-badge)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-9.29-success?style=for-the-badge)](#)
+[![HACKATHON](https://img.shields.io/badge/WINNER-4X-success?style=for-the-badge)](#)
 
 [![Allianz](https://img.shields.io/badge/Allianz%20Tech%20Championship-Winner-gold?style=for-the-badge)](#)
 [![CodeVerse](https://img.shields.io/badge/VIT%20CodeVerse%202025-DRDO%20Track%20Winner-red?style=for-the-badge)](#)
