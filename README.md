@@ -160,5 +160,23 @@ D --> E[Create Impact]
 
 ---
 
-📈 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+## 📈 GitHub Activity
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saloni3494&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh09-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh09-coder&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true"/>
+</p>
+
+---
+
+
