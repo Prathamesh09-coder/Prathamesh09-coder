@@ -165,8 +165,12 @@ D --> E[Create Impact]
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saloni3494&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh09-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prathameshnawale09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshnawale09&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshnawale09&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
