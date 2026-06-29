@@ -74,7 +74,7 @@ My goal is simple:
 
 # 🌟 Experience Snapshot
 
-### Summer Analytics Trainee
+## Summer Analytics Trainee
 
 *IIT Guwahati × HackerEarth*
 
