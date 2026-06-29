@@ -74,23 +74,22 @@ My goal is simple:
 
 # 🌟 Experience Snapshot
 
+### Summer Analytics Trainee
+
+*IIT Guwahati × HackerEarth*
+
+*⁠  ⁠Building end-to-end Machine Learning and Analytics pipelines
+*⁠  ⁠Applying feature engineering and model optimization techniques
+*  ⁠Developing dashboards, visualization systems, and data-driven solutions
+*  ⁠Working alongside a national cohort of analytics enthusiasts
+
+
 ## AI & Cloud Computing Intern
 
 * Worked on AI-driven applications and cloud-based solutions
 * Developed scalable backend services and intelligent systems
 * Gained hands-on experience with modern AI and cloud technologies
 
----
-
-## Major Achievements
-
-* 🏆 Winner — Allianz Tech Championship 2026 (1st among 8500+ participants)
-* 🚀 Smart India Hackathon 2025 Grand Finalist
-* 🥇 Winner — DRDO Track at VIT CodeVerse 2025
-* 💻 Solved 350+ DSA Problems
-* 🎓 Current CGPA: 9.29
-
----
 
 # 🛠 Tech Stack
 
