@@ -150,12 +150,10 @@ My goal is simple:
 # 🧠 Engineering Philosophy
 
 ```mermaid
-flowchart LR
+flowchart TD
 
-A[Artificial Intelligence]
-B[Distributed Systems]
-C[Software Engineering]
-
-A --> D[Real World Impact]
-B --> D
-C --> D
+A[Observe Problems] --> B[Think Deeply]
+B --> C[Build Solutions]
+C --> D[Iterate Continuously]
+D --> E[Create Impact]
+```
