@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Allianz%20Tech%20Championship%202025-Winner-gold?style=for-the-badge"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Grand%20Finalist-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202025-Grand%20Finalist-0A66C2?style=for-the-badge"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Hackathon%20Wins-4X-success?style=for-the-badge"/>
