@@ -4,15 +4,32 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=220&section=header&text=Prathamesh%20Nawale&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Distributed%20Systems%20Builder%20|%20Competitive%20Programmer&descAlignY=58"/>
 </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-350+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![DSA](https://img.shields.io/badge/DSA-350%2B%20Problems-blue?style=for-the-badge)](#)
-[![Allianz](https://img.shields.io/badge/Allianz%20Tech%20Championship%202025-Winner-gold?style=for-the-badge)](#)
-[![SIH](https://img.shields.io/badge/SIH%202025-Grand%20Finalist-0A66C2?style=for-the-badge)](#)
-[![HACKATHON](https://img.shields.io/badge/HACKATHON%20WINNER-4X-success?style=for-the-badge)](#)
+<a href="https://leetcode.com/u/prathamesh_nawale19/">
+  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/Prathamesh_09">
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/prathamesh_n09">
+  <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://github.com/Prathamesh09-coder">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<br><br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Allianz%20Tech%20Championship-Winner-gold?style=for-the-badge"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Grand%20Finalist-0A66C2?style=for-the-badge"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Hackathon%20Wins-4X-success?style=for-the-badge"/>
+</a>
 
 </div>
-
 ---
 
 # 💡 About Me
