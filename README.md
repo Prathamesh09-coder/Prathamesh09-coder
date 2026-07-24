@@ -25,7 +25,7 @@ I'm a third-year **B.Tech Computer Science Engineering (Artificial Intelligence)
 
 My journey combines:
 
-* 💻 Competitive Programming (350+ DSA problems across LeetCode, Codeforces & CodeChef)
+* 💻 Competitive Programming: LeetCode Knight (1600+) | CodeChef 3★ (1602) | Codeforces Pupil (1398)
 * 🏆 Winner — Allianz Tech Championship 2026 (1st among 8500+ participants)
 * 🚀 Smart India Hackathon 2025 Grand Finalist
 * 🥇 4x Hackathon Winner
