@@ -7,7 +7,7 @@
 <a href="https://leetcode.com/u/prathamesh_nawale19/">
   <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-<a href="https://codeforces.com/profile/Prathamesh_09">
+<a href="https://codeforces.com/profile/Prathamesh09_Coder">
   <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 <a href="https://www.codechef.com/users/prathamesh_n09">
