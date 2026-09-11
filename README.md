@@ -43,11 +43,11 @@ I'm a third-year **B.Tech Computer Science Engineering (Artificial Intelligence)
 My journey combines:
 
 * 💻 Competitive Programming: LeetCode Knight (1800+) | CodeChef 3★ (1602) | Codeforces Pupil (1398)
-* 🏆 Winner — Allianz Tech Championship 2026 (1st among 8500+ participants)
+* 🏆 Winner — Allianz Tech Championship 2025 (1st among 8500+ participants)
 * 🚀 Smart India Hackathon 2025 Grand Finalist
 * 🥇 4x Hackathon Winner
 * 📊 Data Science & Analytics (Summer Analytics Trainee at IIT Guwahati × HackerEarth)
-* 🚀 Actively contributing to open-source ecosystems, improving software quality, documentation, and developer experience.
+* 🌍 Active open-source contributor across CNCF and Linux Foundation ecosystem projects.
 * ⁠🤖 AI/ML & Distributed Systems Engineering
 
 
@@ -107,6 +107,31 @@ My goal is simple:
 * Developed scalable backend services and intelligent systems
 * Gained hands-on experience with modern AI and cloud technologies
 
+---
+
+# 🌍 Open Source Contributions
+
+## 🦭 Podman — Contributor
+*CNCF / Linux Foundation ecosystem*
+
+- Contributed **7+ upstream PRs** involving CI tooling, documentation, networking, REST API documentation, and developer workflows.
+- Collaborated with **Podman maintainers** through GitHub issues, code reviews, and pull requests, incorporating maintainer feedback and following DCO requirements.
+
+## 🎛 Kubernetes Headlamp Plugins — Contributor
+*CNCF Kubernetes ecosystem*
+
+- Contributed **3 open PRs** involving Flux unit testing and Kueue API compatibility/status handling.
+- Added **46 Flux tests**, implemented **Kueue v1beta1 compatibility**, and improved `WaitingForReplacementPods` workload status handling.
+- Collaborated with project maintainers through GitHub issues, code reviews, and pull requests.
+
+## 🧩 Apicurio Registry — Contributor
+*CNCF / Linux Foundation ecosystem*
+
+- Contributed **2 PRs** involving configurable URL-import limits and conditional prompt rendering.
+- Added **validation, shared rendering logic, and unit-test coverage** while addressing maintainer and automated review feedback.
+- Collaborated with project maintainers through GitHub issues, code reviews, and pull requests.
+
+---
 
 # 🛠 Tech Stack
 
